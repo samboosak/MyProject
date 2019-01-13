@@ -1,5 +1,8 @@
 # bak files
 *.bak
 
+# out files
+*.out
+
 #tmp dir
 tmp/*
