@@ -4,5 +4,8 @@
 # out files
 *.out
 
+# tmp files
+*.tmp
+
 #tmp dir
 tmp/*
