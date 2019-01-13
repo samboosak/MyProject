@@ -1,0 +1,5 @@
+# ingore bak file
+*.bak
+
+# ingore tmp dir
+tmp/*
